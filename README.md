@@ -1,2 +1,2 @@
-# refridge
+# fridge
 Refridgerator List
